@@ -114,6 +114,7 @@ public class NewsTitleFragment extends Fragment {
 
         @Override
         public int getItemCount(){
+
             return mNewsList.size();
         }
     }

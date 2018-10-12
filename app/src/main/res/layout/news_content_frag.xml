@@ -37,11 +37,11 @@
 
     </LinearLayout>
 
-    <view
+    <View
         android:layout_width="1dp"
         android:layout_height="match_parent"
         android:layout_alignParentLeft="true"
         android:background="#000">
-    </view>
+    </View>
 
 </RelativeLayout>
